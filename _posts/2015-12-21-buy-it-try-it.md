@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:88d21960-d577-46f8-9a5c-1234218e295b'
+inLanguage: null
+starred: false
+keywords: []
 description: Buy it. Try it.
+datePublished: '2015-12-21T21:54:45.393Z'
+dateModified: '2015-12-21T21:54:23.668Z'
 author: []
-datePublished: '2015-12-21T21:53:46.609Z'
-publisher:
-  domain: ''
-  name: ''
 title: 'Buy it. Try it. '
-dateModified: '2015-12-21T21:53:18.696Z'
 sourcePath: _posts/2015-12-21-buy-it-try-it.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: buy-it-try-it/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
