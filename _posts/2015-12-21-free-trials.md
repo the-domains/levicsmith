@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-21T21:52:08.788Z'
-dateModified: '2015-12-21T21:51:57.547Z'
+datePublished: '2015-12-21T21:54:40.004Z'
+dateModified: '2015-12-21T21:54:37.379Z'
 title: FREE TRIALS
 author: []
+sourcePath: _posts/2015-12-21-free-trials.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-21-free-trials.md
-published: true
 _type: Blurb
 
 ---
