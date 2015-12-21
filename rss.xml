@@ -4,7 +4,7 @@
         <description><![CDATA[Levi C Smith]]></description>
         <link>http://levicsmith.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 21:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 21:54:54 GMT</lastBuildDate>
         <atom:link href="http://levicsmith.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is the test.]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Buy it. Try it. ]]></title>
-            <description><![CDATA[<article><h1>Buy it. Try it. </h1><p>Buy it. Try it.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d67b426-9bbe-4d2a-bf7f-9e619259f9b3.png"></article>]]></description>
-            <link>http://levicsmith.com/buy-it-try-it/index.html</link>
+            <description><![CDATA[<article><h1>Buy it. Try it. </h1><p>Buy it. Try it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/985b90d44182dc9630faa26af264accba782aa0e.png"></article>]]></description>
+            <link>urn:uuid:88d21960-d577-46f8-9a5c-1234218e295b</link>
             <guid isPermaLink="false">27495b27-b901-40a1-b84d-6d7b9ee42fad</guid>
-            <pubDate>Mon, 21 Dec 2015 21:53:46 GMT</pubDate>
+            <pubDate>Mon, 21 Dec 2015 21:54:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
