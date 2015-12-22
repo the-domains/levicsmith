@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Buy it. Try it.
-datePublished: '2015-12-21T21:54:45.393Z'
-dateModified: '2015-12-21T21:54:23.668Z'
+datePublished: '2015-12-22T01:45:10.029Z'
+dateModified: '2015-12-22T01:45:06.346Z'
 author: []
 title: 'Buy it. Try it. '
 sourcePath: _posts/2015-12-21-buy-it-try-it.md
@@ -23,4 +23,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Buy it. Try it. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d67b426-9bbe-4d2a-bf7f-9e619259f9b3.png)
+# Buy it. Try it. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/985b90d44182dc9630faa26af264accba782aa0e.png)
