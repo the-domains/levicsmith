@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Buy it. Try it.
-datePublished: '2015-12-22T01:45:10.029Z'
-dateModified: '2015-12-22T01:45:06.346Z'
+datePublished: '2015-12-22T01:47:01.282Z'
+dateModified: '2015-12-22T01:45:23.870Z'
 author: []
 title: 'Buy it. Try it. '
 sourcePath: _posts/2015-12-21-buy-it-try-it.md
