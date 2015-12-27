@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Levi C Smith]]></title>
         <description><![CDATA[Levi C Smith]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://levicsmith.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 04:57:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 05:12:31 GMT</lastBuildDate>
+        <atom:link href="http://levicsmith.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[2015]]></title>
             <description><![CDATA[<article><h1>2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0accc825994381cbc622aa39b7b969d73bda4d4d.jpg"></article>]]></description>
-            <link>undefined2015/index.html</link>
+            <link>http://levicsmith.com/2015/index.html</link>
             <guid isPermaLink="false">e547c966-6a5d-4f51-9699-a6c6a3d9d2c2</guid>
-            <pubDate>Sun, 27 Dec 2015 04:57:13 GMT</pubDate>
+            <pubDate>Sun, 27 Dec 2015 05:12:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
