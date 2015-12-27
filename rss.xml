@@ -4,7 +4,7 @@
         <description><![CDATA[Levi C Smith || BLOG]]></description>
         <link>http://levicsmith.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 22:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 22:45:59 GMT</lastBuildDate>
         <atom:link href="http://levicsmith.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -12,6 +12,13 @@
             <link>http://levicsmith.com/2015/index.html</link>
             <guid isPermaLink="false">e547c966-6a5d-4f51-9699-a6c6a3d9d2c2</guid>
             <pubDate>Sun, 27 Dec 2015 13:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Son]]></title>
+            <description><![CDATA[<article><h1>My Son</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/349f454e-3765-490d-9472-dd9f481e0180.jpg"></article>]]></description>
+            <link>http://levicsmith.com/my-son/index.html</link>
+            <guid isPermaLink="false">528e16a3-dae0-4209-92d1-69e44124f48e</guid>
+            <pubDate>Sun, 27 Dec 2015 22:45:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Earlier today I found out I have a nice camera. ]]></title>
