@@ -24,6 +24,6 @@ color:
     - '#ec0030'
   brandStrength: 0.25
   lightness: 0.6875
-  saturation: 0
+  saturation: 0.9375
   rhythmicContrast: 0.75
 purpose: []
