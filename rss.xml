@@ -4,8 +4,15 @@
         <description><![CDATA[Levi C Smith]]></description>
         <link>http://levicsmith.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 04:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 04:11:34 GMT</lastBuildDate>
         <atom:link href="http://levicsmith.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finn]]></title>
+            <description><![CDATA[<article><h1>Finn</h1><p>This guy is the best. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e25f75ad3315dce3ef40a8c11b2b74ae9143bc7f.jpg"></article>]]></description>
+            <link>http://levicsmith.com/finn/index.html</link>
+            <guid isPermaLink="false">879ed11b-aa13-447a-bd9c-50d689f7a98a</guid>
+            <pubDate>Sat, 26 Dec 2015 22:46:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is the test.]]></title>
             <description><![CDATA[<article><h1>This is the test.</h1><p>I'm worried about this test. </p></article>]]></description>
