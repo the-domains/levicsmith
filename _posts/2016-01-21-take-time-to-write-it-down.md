@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T04:33:03.303Z'
-dateModified: '2016-01-21T04:32:47.718Z'
+datePublished: '2016-01-21T04:34:30.570Z'
+dateModified: '2016-01-21T04:34:18.879Z'
 title: Take Time To Write It Down
 author: []
+sourcePath: _posts/2016-01-21-take-time-to-write-it-down.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-21-take-time-to-write-it-down.md
-published: true
 url: take-time-to-write-it-down/index.html
 _type: Article
 
