@@ -2,7 +2,7 @@ name: levicsmith
 favicon: null
 layout_spectrum: 0.04042553
 typography_spectrum: 0.3689
-title: 'Levi C Smith || BLOG'
+title: Levi C Smith || BLOG
 collections:
   - index:
       path: /
